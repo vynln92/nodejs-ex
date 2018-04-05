@@ -2,9 +2,9 @@
   "name": "solo-backend",
   "version": "1.0.0",
   "main": "server/server.js",
-  "engines": {    
-    "node": "0.8.x",
-    "npm": "1.2.x"
+  "engine": {
+    "node": "*",
+    "npm": "*"
   },
   "scripts": {
     "lint": "eslint .",
