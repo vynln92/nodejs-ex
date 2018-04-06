@@ -6,7 +6,7 @@
   "solo-db": {
     "host": "127.0.0.1",
     "port": 27017,
-    "url": "",
+    "url": "mongodb://admin:Bboymean1243@ds237389.mlab.com:37389/soloapp",
     "database": "solo-db",
     "password": "",
     "name": "solo-db",
